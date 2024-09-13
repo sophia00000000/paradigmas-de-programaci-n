@@ -1,4 +1,4 @@
-integrantes:
-  -angie lorena lopez
-  -maria belen peña
-  -laura sophia hernandez
+Integrantes:
+  - Angie Lorena López Ruiz
+  - María Belén Peña Meléndez
+  - Laura Sophia Hernández Rojas
