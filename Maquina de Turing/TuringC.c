@@ -91,7 +91,7 @@ void transicion(MaquinaTuring *mt) {
             break;
 
         case q3:
-        mt->resultado[mt->cabezalResultado] = mt->resultado[mt->cabezalResultado];
+            mt->resultado[mt->cabezalResultado] = mt->resultado[mt->cabezalResultado];
             mt->estado = q4;  // Pasar a mover el cabezal
             break;
 
