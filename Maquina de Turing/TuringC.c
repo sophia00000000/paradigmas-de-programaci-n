@@ -133,8 +133,8 @@ void imprimirBinario(int binario[], int tam) {
 }
 
 int main() {
-    int cinta1[] = {1, 0, 0, 0};  // 120 en decimal
-    int cinta2[] = {0, 1, 0, 1};  // 36 en decimal
+    int cinta1[] = {1, 0, 0, 0};  // 8 en decimal
+    int cinta2[] = {0, 1, 0, 1};  // 5 en decimal
     int tam = sizeof(cinta1) / sizeof(cinta1[0]);
     MaquinaTuring mt;
 
